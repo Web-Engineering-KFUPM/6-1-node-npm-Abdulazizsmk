@@ -109,7 +109,6 @@ packageName.function();
 **Example with lodash:**
 ```js
 import _ from "lodash";
-
 const numbers = [1, 2, 3, 4, 5];
 const sum = _.sum(numbers); // 15
 ```
