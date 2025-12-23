@@ -1,17 +1,12 @@
 {
-  "name": "6-1-node-npm",
+  "name": "Lab-2-2-more-html",
   "version": "1.0.0",
-  "main": "calculator.js",
+  "private": true,
   "type": "module",
   "scripts": {
-    "start": "node calculator.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "grade": "node script.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
   "dependencies": {
-    "lodash": "^4.17.21"
+    "cheerio": "^1.0.0-rc.12"
   }
 }
